@@ -27,12 +27,5 @@
       "checkOutDate": "2023-08-07"
     }
   ],
-  "accounts": [
-    {
-      "id": 1,
-      "email": "quocan01255@gmail.com",
-      "password": "12345678",
-      "role": "admin"
-    },
-  ]
+  
 }
